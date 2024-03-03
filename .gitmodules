@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Souvik9205/ProjectManagement-Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Souvik9205/Project-Management-Tool-Frontend.git
